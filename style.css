@@ -1,0 +1,30 @@
+.btn {
+    color:white;
+    background-color:lightgrey;
+    border:2px solid grey;
+    border-radius:5px;
+
+}
+body {
+    background-color:lightgrey;
+    text-align:center;
+}
+#bar {
+    background-color:lightgrey;
+    border-radius:5px;
+    border: 5px solid grey;
+    width:100%;
+    
+
+}
+#header {
+    background-color:lightgrey;
+    border-radius:5px;
+    border: 5px solid grey;
+    width:100%;  
+}
+h1,h2,h3,h4,h5,h6,p {
+    color:white;
+    font-family:Arial;
+    font-weight:bold;
+}
